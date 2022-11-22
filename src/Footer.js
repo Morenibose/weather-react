@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="Footer">
       <small>
         <a
-          href="https://github.com/Morenibose/vanilla-weather-app"
+          href="https://github.com/Morenibose/weather-react"
           target="_blank"
           rel="noreferrer"
         >
@@ -15,7 +15,7 @@ export default function Footer() {
         </a>
         ,coded by Morenike Adebayo and ,
         <a
-          href="https://venerable-melomakarona-014992.netlify.app"
+          href="https://silver-griffin-280183.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
